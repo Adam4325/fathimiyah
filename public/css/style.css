@@ -1,0 +1,70 @@
+fieldset{
+  border: solid 1px #DDD;
+  padding: 5px;
+  background-color: #FFF;
+  border-radius:5px;
+  margin-bottom: 10px;
+}
+fieldset>legend{
+  display: block;
+  margin: 5px;
+  font-size: 16px;
+  background-color: #337ab7;
+  padding: 10px;
+  color: #FFF;
+  font: bold;
+  border: solid 1px #DDD;
+  width: 200px;
+  border-radius:5px;
+}
+.menu-tausiah,.menu-tausiah:link{
+  color: #000;
+  font: bold;
+}
+.menu-tausiah:hover{
+  color: #069639;
+}
+.text-sm{
+  font-size: 10px;
+}
+.batas-menu-tausiah{
+  margin: 2px;
+}
+.fieldset-video>legend{
+  background-color: #E02F43;
+}
+.menu-top-rated,.menu-top-rated:link{
+  border: none;
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+}
+.menu-top-rated:hover{
+  background-color: #EEE;
+  text-decoration: none;
+
+}
+.bs-docs-footer{
+  padding: 35px;
+  background-color: #222;
+  color: #FFF;
+}
+.footer-fieldset{
+  background-color: transparent;
+  border: solid 1px #000;
+  
+}
+.menu-footer,.menu-footer:link{
+  color: #FFF;
+}
+
+.menu-top-fixed,.menu-top-fixed:link{
+  color: #FFF !important;
+}
+.menu-top-fixed-child,.menu-top-fixed-child:link{
+  color: #000 !important;
+}
+.menu-top-fixed-child:hover{
+  background-color: #337ab7 !important;
+  color: #fff !important;
+}
